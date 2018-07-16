@@ -1,0 +1,17 @@
+           <div id="mine-collect">
+              <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="position: relative; margin-top:-850px;">
+                <h1 class="page-header">我的收藏</h1>
+                <div class="list-group">
+                            <div>
+                            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                  <h5 class="mb-1">来一波佛山<small class="text-muted"style="position: relative;float:right">11:10</small></h5>                           
+                                </div>
+                                <p class="mb-1">明信老铺的双皮奶和炸牛奶！！！</p>
+                                <small class="text-muted"><div style="width:25px;height:25px;border-radius:50px;border:solid rgb(100,100,100) 1px;" class=imag><img src="img/gril.jpg" alt="" /></div>舔食怪</small>
+                                <div class="tb1"><i class="fa fa-eye" ></i>116&nbsp;&nbsp;<i class="fa fa-commenting"></i>18&nbsp;&nbsp;<i class="fa fa-star-o"></i>133&nbsp;&nbsp;<i class="fa fa-thumbs-o-up">63</i></div>
+                              </a>
+                              </div>
+                    </div>
+                    </div>
+                  </div>
